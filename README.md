@@ -5,7 +5,7 @@
 
 <h1 id="aeonoth-smp-pack">Aeonoth-SMP-Pack</h1>
 <p>Random hand-picked mods used for the Aeonoth 1.18.2 SMP</p>
-<h2 id="test">test</h2>
+<hr>
 <p>This mod pack has [almost] all of the mods that I am currently using for the Aeonoth Discord SMP (link below for that). As I’m not considering this as “final”, there <em>will</em> be erratic changes to the pack, such as adding and removing mods. I may open a GitHub repository for gathering issues revolving around mod interactions, such as incorrect behaviors or crashes (in-game or at launch), but I advise that you post these issues you experience with such mods to their <strong>original developers</strong> so that they know about it.</p>
 <p>This isn’t really meant to be a “quest-based” mod pack, as I have no idea how to properly set up a “storyline” or a “progression” for it like everyone does, but you are free to still use this pack for your own playthrough. There is also no specific theme or “prompt” with these mods. It’s just based on what I think should be in the server.</p>
 <p><strong><em>Credit goes to the original creators of all included mods in this pack. Make sure you go check them out!</em></strong></p>
