@@ -10,7 +10,7 @@ This isn't really meant to be a "quest-based" mod pack, as I have no idea how to
 **_Credit goes to the original creators of all included mods in this pack. Make sure you go check them out!_**
 
 # Installation
-To install this mod pack as a file,
+To install this mod pack as a file, download the pack from either the Versions tab of the Modrinth page or the Releases section of the GitHub repository. Follow/refer to these installation instructions for downloading a mod pack:
 
 ## [Prism](https://prismlauncher.org/wiki/getting-started/download-modpacks/)
 1. Right-click anywhere within the instance menu and select "Create Instance".
