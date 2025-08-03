@@ -39,14 +39,6 @@ For other launchers, you will have to consult your launcher's docs for installin
 
 ---
 
-# Aeonoth SMP 
-**Minecraft 1.18.2 Modded Discord SMP**
-If you want in on the SMP, you can join the Voidstate of Venaphase Discord server via this link: https://dsc.gg/FocalFlare [This link redirects to my Discord server. However, if you are feeling a bit skeptical of that, you can use the original invite link located on either side of this mod page!]
-
-Note that there are **no requisites** and whatnot, so you do not need to join a Patreon (for example) to get access. You just need to join the Discord server and copy and paste the provided e4mc links into the server address field when you go to connect to a server. **For each e4mc server to remain online, I must be in the world that's being hosted.**
-
----
-
 ## Disclaimer
 ### Specific Mods
 The mods below have some additional notes to them. Some may be modified to work a bit properly, either in my favor or for my own use cases.
@@ -71,6 +63,3 @@ If any issues arise with the mods, please open these on the mods' issue pages if
 
 ### Other notes
 I speculate this is a "modding standard", but no, there's no questing book, and I don't ever plan on adding one. I don't play with quests, so I find it pointless to force you guys to play with quests as well.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDMzNjg0NTZdfQ==
--->
