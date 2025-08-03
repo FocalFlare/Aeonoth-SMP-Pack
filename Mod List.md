@@ -1,0 +1,93 @@
+# Mod List
+Below is a list of mods that are used. Some of these mods are required by the server, while others are optional. Certain launchers like Prism allow you to see which mods are needed and which ones are optional by labeling them as either client or server (or both).
+
+❌ Mods followed by a red cross emoji are removed from the pack due to copyright.
+
+- [3d\-Skin\-Layers](https://modrinth.com/mod/zV5r3pPn) [1\.7\.5] by tr7zw
+- [Additional Lanterns](https://modrinth.com/mod/jXNvTKds) [1\.1\.1a] by SuperMartijn642
+- [Additional Placements](https://modrinth.com/mod/f5TwOKkb) [2\.3\.1] by FirEmerald
+- [Architectury](https://modrinth.com/mod/lhGA9TYQ) [4\.12\.94] by shedaniel
+- [AutoRegLib](https://modrinth.com/mod/NvZ9ZhwE) [1\.7\-53] by Vazkii
+- [Better Advancements](https://modrinth.com/mod/Q2OqKxDG) [0\.2\.0\.146] by way2muchnoise
+- [Better Statistics Screen](https://modrinth.com/mod/n6PXGAoM) [2\.2\.2\+1\.18\.2] by TheCSDev
+- [BetterF3](https://modrinth.com/mod/8shC1gFX) [3\.0\.0] by TreyRuffy and cominixo
+- [Builder's Delight](https://modrinth.com/mod/CAASGC7r) [1\.0] by Tynoxs
+- [Champions](https://modrinth.com/mod/YlKc4JEx) [1\.18\.2\-2\.1\.6\.3] by C4
+- [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) [0\.6\.1] by dzwdz
+- [Chipped](https://modrinth.com/mod/BAscRYKm) [2\.0\.1] by Alex Nijjar, CodexAdrian, Grimbop, Kekie6, Marc\-IceBlade, MsRandom, ThatGravyBoat
+- [Cloth Config v4 API](https://modrinth.com/mod/9s6osm5g) [6\.5\.102] by shedaniel
+- [Configured](https://www.curseforge.com/projects/457570) [2\.0\.1] by MrCrayfish
+- [ConnectedTexturesMod](https://www.curseforge.com/projects/267602) [1\.18\.2\-1\.1\.5\+5] by tterrag, Drullkus, minecreatr
+- [Connectedness](https://modrinth.com/mod/ceiPqFmI) [1\.18\.2\-2\.0\.1a] by Pepper\_Bell
+- [Construct's Armory](https://modrinth.com/mod/CqdgTeFR) [2\.0\.0\-alpha\.4\+1\.18\.2] by C4, minemobs
+- [Culinary Construct](https://modrinth.com/mod/i0hioBIg) [1\.18\.2\-4\.3\.1\.0] by C4
+- [Decorative Blocks](https://www.curseforge.com/projects/362528) [2\.1\.2] by stohun, lilypuree
+- [Decorative Compat](https://www.curseforge.com/projects/365578) [2\.1\.0] by lilypuree
+- [Decorative Winter](https://www.curseforge.com/projects/430836) [2\.1\.0] by lilypuree
+- [Effortless Building](https://www.curseforge.com/projects/302113) [1\.18\-2\.40] by Requios
+- [Embeddium](https://modrinth.com/mod/sk9rgfiA) [0\.3\.18\+mc1\.18\.2] by embeddedt
+- [Embeddium\+\+](https://modrinth.com/mod/yD9qW65f) [1\.2\.14] by SrRapero720
+- [Entity Model Features](https://modrinth.com/mod/4I1XuqiY) [2\.0\.2] by Traben
+- [Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) [6\.0\.1] by Traben
+- [EntityCulling](https://modrinth.com/mod/NNAgCjsB) [1\.6\.1] by tr7zw
+- [FPS Reducer](https://modrinth.com/mod/iZ10HXDj) [1\.18\.2\-2\.0] by bre2el
+- [FallingTree](https://modrinth.com/mod/Fb4jn8m6) [3\.5\.5] by RakSrinaNa
+- [Ferrite Core](https://modrinth.com/mod/uXXizFIs) [4\.2\.2] by malte0811
+- ❌[Fluid Drawers Legacy](https://www.curseforge.com/projects/597669) [1\.18\.2\-forge\-2\.5\.0\-beta] by jianzoushihu
+- [Forgematica](https://modrinth.com/mod/dCKRaeBC) [0\.1\.11\-mc1\.18\.2] by TexTrue, ThinkingStudio
+- [FramedBlocks](https://www.curseforge.com/minecraft/mc-mods/framedblocks) [5\.11\.5] by XFactHD
+- [Freecam](https://modrinth.com/mod/XeEZ3fK2) [1\.3\.3\+mc1\.18\.2] by hashalite,Matt Sturgeon
+- [Fusion](https://modrinth.com/mod/p19vrgc2) [1\.2\.7\+a] by SuperMartijn642
+- [Glasscutter](https://modrinth.com/mod/2aOHMMdy) [1\.1\.0] by vintlgvard
+- [ImmediatelyFast Reforged](https://www.curseforge.com/projects/839581) [1\.18\.2\-1\.1\.10] by CCr4ft3r \(this Forge port\), RaphiMC \(original Fabric version\)
+- [Jade](https://modrinth.com/mod/nvQzSEkH) [5\.3\.2] by Snownee
+- [Jade Addons](https://modrinth.com/mod/xuDOzCLy) [2\.5\.0] by Snownee
+- [Just CTGUI](https://modrinth.com/mod/uQorKjjW) [0\.0\.8\.1] by 300f20t, MCreator
+- [Just Enough Advancements](https://modrinth.com/mod/5JY3QNIB) [1\.18\.2\-3\.2\.0] by MelanX, noeppi\_noeppi
+- [Just Enough Effect Descriptions](https://modrinth.com/mod/EO27GKs1) [1\.18\.2\-1\.11] by MehVahdJukaar
+- [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ) [9\.7\.2\.1001] by mezz
+- [Just Enough Professions \(JEP\)](https://modrinth.com/mod/kB56GtWA) [1\.3\.0] by Mrbysco, ShyNieke
+- [Just Enough Resources](https://modrinth.com/mod/uEfK2CXF) [0\.14\.2\.206]
+- [Kotlin for Forge](https://modrinth.com/mod/ordsPcFz) [NBn3sEQk]
+- [Ksyxis](https://modrinth.com/mod/2ecVyZ49) [1\.3\.3] by VidTu
+- [LazyDFU](https://www.curseforge.com/projects/460819) [0\.1\.3] by tuxed
+- [LibX](https://modrinth.com/mod/qEH6GYul) [1\.18\.2\-3\.2\.19] by noeppi\_noeppi, MelanX
+- [MaFgLib](https://modrinth.com/mod/SKI34J7B) [0\.1\.14\-mc1\.18\.2] by TexTrue, ThinkingStudio
+- [Mantle](https://modrinth.com/mod/Cg6Uc79H) [1\.9\.54] by Slime Knights
+- [ModernFix](https://modrinth.com/mod/nmDcB62a) [5\.18\.0\+mc1\.18\.2] by embeddedt
+- [Netherracked](https://modrinth.com/mod/vNFbVrF1) [1\.0\.3] by IranMine123
+- [Not Enough Crashes](https://modrinth.com/mod/yM94ont6) [4\.2\.0\+1\.18\.2] by Fudge
+- [Observable](https://modrinth.com/mod/VYRu7qmG) [2\.2\.3] by tasgon
+- [Oculus](https://modrinth.com/mod/GchcoXML) [1\.6\.4] by coderbot, IMS212, Justsnoopy30, FoundationGames
+- [Oculus Flywheel Compat](https://modrinth.com/mod/ndHYMY2K) [1\.0\.3] by Leon
+- [Open Parties and Claims](https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims) [0\.24\.0] by Xaero96 and other contributors
+- [Physics Mod](https://modrinth.com/mod/Xy8aRQKS) [2\.12\.5] by Haubna
+- [PreciseBlockPlacing](https://www.curseforge.com/projects/407981) [1\.1\.0] by tterrag1098, Ellemes
+- [Quark](https://modrinth.com/mod/qnQsVE2z) [3\.2\-358] by Vazkii, WireSegal, MCVinnyq, Sully
+- [Quark Oddities](https://modrinth.com/mod/qeEEslrN) [1\.18] by Vazkii, WireSegal, MCVinnyq, Sully
+- [Rechiseled](https://modrinth.com/mod/B0g2vT6l) [1\.1\.6] by SuperMartijn642
+- [Rechiseled: Chipped](https://modrinth.com/mod/ryYcxeeA) [1\.1\-1\.1\.8\.2] by iwolfking
+- [Reforgium](https://modrinth.com/mod/vmn85VI7) [1\.18\.2\-1\.0\.12a] by comp500
+- [Resourcify](https://modrinth.com/mod/RLzHAoZe) [1\.6\.1] by DeDiamondPro
+- [Right Click, Get Crops](https://teamcofh.com/) [1\.4\.0\.10] by King Lemming
+- [Selene](https://modrinth.com/mod/twkfQtEc) [1\.18\.2\-1\.17\.17] by MehVahdJukaar
+- [Simply Light](https://www.curseforge.com/projects/300331) [1\.18\.2\-1\.4\.5\-build\.43] by Flanks255
+- [Sound Physics Remastered](https://www.curseforge.com/projects/535489) [1\.18\.2\-1\.0\.6] by Sonic Ether, vlad2305m, Max Henkel
+- [Starlight](https://modrinth.com/mod/iRfIGC1s) [1\.0\.2\+forge\.83663de] by Spottedleaf
+- [Stonecutter Damage](https://modrinth.com/mod/jzn0KNd6) [1\-mcmeta\-5] by un\-pogaz
+- [Storage Drawers](https://modrinth.com/mod/guitPqEi) [10\.3\.0] by Texelsaur
+- [Structurize](https://www.curseforge.com/projects/298744) [1\.18\.2\-1\.0\.448\-ALPHA] by LDT Team
+- [SuperMartijn642's Config Library](https://modrinth.com/mod/LN9BxssP) [1\.1\.8] by SuperMartijn642
+- [SuperMartijn642's Core Lib](https://modrinth.com/mod/rOUBggPv) [1\.1\.18] by SuperMartijn642
+- [Supplementaries](https://modrinth.com/mod/fFEIiSDQ) [1\.18\.2\-1\.5\.18] by MehVahdJukaar, Plantkillable
+- [TexTrue's Embeddium Options](https://modrinth.com/mod/S1tndFDa) [0\.1\.1\+mc1\.18\.2] by TexTrue, TexTrueStudio
+- [Tiered](https://www.curseforge.com/projects/453889) [1\.18\.2\-4\.1\.2\-Forge] by Draylar, Stereowalker
+- [Tinker's Planner](https://modrinth.com/mod/XYufjdjs) [1\.2\.0] by Tiffit, SpikyStars
+- [Tinkers' Construct](https://modrinth.com/mod/rxIIYO6c) [3\.7\.2\.167] by Slime Knights
+- [Tom's Simple Storage Mod](https://modrinth.com/mod/XZNI4Cpy) [1\.4\.5] by tom5454
+- [UI Library Mod](https://www.curseforge.com/projects/522992) [1\.18\.2\-0\.0\.71\-ALPHA] by LDT Team
+- [UnionLib](https://www.curseforge.com/projects/367806) [7\.2\.4] by Stereowalker
+- [Xaero's Minimap](https://modrinth.com/mod/1bokaNcj) [25\.2\.6] by xaero96
+- [Xaero's World Map](https://modrinth.com/mod/NcUtCpym) [1\.39\.9] by xaero96
+- [Zume](https://modrinth.com/mod/o6qsdrrQ) [1\.1\.4] by Nolij \(@xdMatthewbx\#1337\)
+- [e4mc](https://modrinth.com/mod/qANg5Jrr) [5\.3\.1] by skyevg
