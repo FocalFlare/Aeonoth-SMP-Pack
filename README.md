@@ -39,7 +39,7 @@ For other launchers, you will have to consult your launcher's docs for installin
 
 ---
 
-## Disclaimer
+## Disclaimers
 ### Specific Mods
 The mods below have some additional notes to them. Some may be modified to work a bit properly, either in my favor or for my own use cases.
 * Framed Blocks: This mod has been modified of its whitelist config to include Chipped's normal and stained glass blocks as a whitelist for every hull frame available. The mod's metadata can't be created as this is slightly modified. **For legal reasons—and for my own safety and yours, I ask you to refrain from publishing this modification on its own anywhere online unless I get permission from the developer(s) of the mod. If you plan on using this mod, please download the original and modify it yourself!**
