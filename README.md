@@ -1,6 +1,6 @@
 # Aeonoth-SMP-Pack
 Random hand-picked mods used for the Aeonoth 1.18.2 SMP
-
+test
 ---
 
 This mod pack has [almost] all of the mods that I am currently using for the Aeonoth Discord SMP (link below for that). As I'm not considering this as "final", there _will_ be erratic changes to the pack, such as adding and removing mods. I may open a GitHub repository for gathering issues revolving around mod interactions, such as incorrect behaviors or crashes (in-game or at launch), but I advise that you post these issues you experience with such mods to their **original developers** so that they know about it.
@@ -71,3 +71,6 @@ If any issues arise with the mods, please open these on the mods' issue pages if
 
 ### Other notes
 I speculate this is a "modding standard", but no, there's no questing book, and I don't ever plan on adding one. I don't play with quests, so I find it pointless to force you guys to play with quests as well.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbODU5OTg5OTI2XX0=
+-->
