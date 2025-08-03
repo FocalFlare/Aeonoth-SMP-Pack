@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="aeonoth-smp-pack">Aeonoth-SMP-Pack</h1>
 <p>Random hand-picked mods used for the Aeonoth 1.18.2 SMP</p>
 <hr>
