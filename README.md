@@ -71,3 +71,6 @@ If any issues arise with the mods, please open these on the mods' issue pages if
 
 ### Other notes
 I speculate this is a "modding standard", but no, there's no questing book, and I don't ever plan on adding one. I don't play with quests, so I find it pointless to force you guys to play with quests as well.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2MDMzNjg0NTZdfQ==
+-->
