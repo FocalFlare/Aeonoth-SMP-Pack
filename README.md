@@ -49,9 +49,10 @@ The mods below have some additional notes to them. Some may be modified to work 
 * Physics Mod: [PRO MEMBERS ONLY!] The ocean physics option—even though Physics Mod is a client-sided mod—may cause you to appear as if you are sporadically moving in every direction when in water. Be cautious if you use this feature in a sophisticated server.
 
 ### Override Mods
-The mods below are still used by the server, but are removed from the pack themselves (on Modrinth) due to licensing restrictions, as they are not available from Modrinth but rather from CurseForge. You will have to download and install these mods into the instance yourself. More mods from the mod list will be listed here, depending on what I'm told can't be in this pack.
-* [Fluid Drawers Legacy](https://www.curseforge.com/minecraft/mc-mods/fluid-drawers-legacy): All rights reserved
+The mods below are still used by the server, but are removed from the pack themselves due to licensing restrictions, as they are not available from Modrinth but rather from CurseForge. You will have to download and install these mods into the instance yourself. More mods from the mod list will be listed here, depending on what I'm told can't be in this pack.
 
+These mods will still be in the pack on GitHub, but they'll be removed from the Modrinth page.
+* [Fluid Drawers Legacy](https://www.curseforge.com/minecraft/mc-mods/fluid-drawers-legacy): All rights reserved
 
 ### Other Mods
 In Prism, which is the launcher that I'm using, mods are categorized by the side they load for. You can determine if a mod is optional for (client-side) or required by a server (server-side) by looking at the "Side" column for each mod. If, for whatever reason, this column doesn't show for you:
